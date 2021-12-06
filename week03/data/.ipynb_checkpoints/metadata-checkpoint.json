@@ -1,0 +1,108 @@
+{
+    "release": {
+        "id": "acs2019_5yr",
+        "years": "2015-2019",
+        "name": "ACS 2019 5-year"
+    },
+    "tables": {
+        "B25032": {
+            "title": "Tenure by Units in Structure",
+            "universe": "Occupied Housing Units",
+            "denominator_column_id": "B25032001",
+            "columns": {
+                "B25032001": {
+                    "name": "Total:",
+                    "indent": 0
+                },
+                "B25032002": {
+                    "name": "Owner-occupied housing units:",
+                    "indent": 1
+                },
+                "B25032003": {
+                    "name": "1, detached",
+                    "indent": 2
+                },
+                "B25032004": {
+                    "name": "1, attached",
+                    "indent": 2
+                },
+                "B25032005": {
+                    "name": "2",
+                    "indent": 2
+                },
+                "B25032006": {
+                    "name": "3 or 4",
+                    "indent": 2
+                },
+                "B25032007": {
+                    "name": "5 to 9",
+                    "indent": 2
+                },
+                "B25032008": {
+                    "name": "10 to 19",
+                    "indent": 2
+                },
+                "B25032009": {
+                    "name": "20 to 49",
+                    "indent": 2
+                },
+                "B25032010": {
+                    "name": "50 or more",
+                    "indent": 2
+                },
+                "B25032011": {
+                    "name": "Mobile home",
+                    "indent": 2
+                },
+                "B25032012": {
+                    "name": "Boat, RV, van, etc.",
+                    "indent": 2
+                },
+                "B25032013": {
+                    "name": "Renter-occupied housing units:",
+                    "indent": 1
+                },
+                "B25032014": {
+                    "name": "1, detached",
+                    "indent": 2
+                },
+                "B25032015": {
+                    "name": "1, attached",
+                    "indent": 2
+                },
+                "B25032016": {
+                    "name": "2",
+                    "indent": 2
+                },
+                "B25032017": {
+                    "name": "3 or 4",
+                    "indent": 2
+                },
+                "B25032018": {
+                    "name": "5 to 9",
+                    "indent": 2
+                },
+                "B25032019": {
+                    "name": "10 to 19",
+                    "indent": 2
+                },
+                "B25032020": {
+                    "name": "20 to 49",
+                    "indent": 2
+                },
+                "B25032021": {
+                    "name": "50 or more",
+                    "indent": 2
+                },
+                "B25032022": {
+                    "name": "Mobile home",
+                    "indent": 2
+                },
+                "B25032023": {
+                    "name": "Boat, RV, van, etc.",
+                    "indent": 2
+                }
+            }
+        }
+    }
+}
